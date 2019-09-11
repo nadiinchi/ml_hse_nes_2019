@@ -30,7 +30,7 @@ O<sub>итоговая</sub> = Округление(0.15 * СР + 0.4 * ДЗ + 0
 ### Материалы лекций
 Рекомендуемая литература по курсу - [конспекты Евгения Соколова](https://github.com/esokolov/ml-course-hse).
 
-__1. Введение в машинное обучение. __
+__1. Введение в машинное обучение.__
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture01-intro.pdf)
 
 ### Материалы семинаров
