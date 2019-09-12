@@ -34,6 +34,7 @@ O<sub>итоговая</sub> = Округление(0.15 * СР + 0.4 * ДЗ + 0
 
 __1. Введение в машинное обучение.__
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture01-intro.pdf)
+* [Презентация с лекции](https://github.com/nadiinchi/ml_hse_nes_2019/blob/master/materials/lecture1_slides.pdf)
 
 ### Материалы семинаров
 
