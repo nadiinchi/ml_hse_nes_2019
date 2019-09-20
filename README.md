@@ -36,6 +36,10 @@ __1. Введение в машинное обучение.__
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture01-intro.pdf)
 * [Презентация с лекции](https://github.com/nadiinchi/ml_hse_nes_2019/blob/master/materials/lecture1_slides.pdf)
 
+__2. Линейная регрессия__
+* [Конспект 1](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture02-linregr.pdf) (стр. 1-6)
+* [Конспект 2](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf) (стр. 1-3)
+
 ### Материалы семинаров
 
 ### Задания
