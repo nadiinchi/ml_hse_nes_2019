@@ -38,7 +38,12 @@ __1. Введение в машинное обучение.__
 
 __2. Линейная регрессия__
 * [Конспект 1](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture02-linregr.pdf) (стр. 1-6)
-* [Конспект 2](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf) (стр. 1-3)
+* [Конспект 2](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf) (стр. 1-5)
+
+__3. Линейная классификация__
+* [Конспект про линейную классификацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf) (стр. 1-3)
+* [Конспект про логистическюу регрессию](стр. 3-4)
+
 
 ### Материалы семинаров
 
