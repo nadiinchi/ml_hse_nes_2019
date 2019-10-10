@@ -42,12 +42,17 @@ __2. Линейная регрессия__
 
 __3. Линейная классификация__
 * [Конспект про линейную классификацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf) (стр. 1-3)
-* [Конспект про логистическюу регрессию](стр. 3-4)
+* [Конспект про логистическую регрессию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture05-linclass.pdf) (стр. 3-4)
 
+__4. Метрики классификации. Многоклассовая классификация__
+* [Конспект про метрики качества бинарной классификации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture04-linclass.pdf) (стр. 4-9)
+* [Конспект про многоклассовую классификацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture06-linclass.pdf) (стр. 1-6)
 
-### Материалы семинаров
+__5. Кросс-валидация. Решающие деревья__
+* [Про кросс-валидацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf) (стр. 1-2)
+* [Решающие деревья](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture07-trees.pdf)
 
-### Задания
+### Материалы семинаров и задания в MYNES
 
 
 ### Полезные материалы
