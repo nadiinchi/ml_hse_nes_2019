@@ -52,6 +52,10 @@ __5. Кросс-валидация. Решающие деревья__
 * [Про кросс-валидацию](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture03-linregr.pdf) (стр. 1-2)
 * [Решающие деревья](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture07-trees.pdf)
 
+__6. Метрические методы. Введение в композиции__
+* [Конспект по метрическим методам](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem06-knn.pdf)
+* [Конспект по композициям](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (стр. 1-2)
+
 ### Материалы семинаров и задания в MYNES
 
 
