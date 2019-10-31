@@ -61,7 +61,7 @@ __6. Метрические методы. Введение в композици
 
 __7. Композиции алгоритмов__
 * [Конспект по бэггингу и случайному лесу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (стр. 6, 8-9)
-* [Конспект по градиентному бустингу](стр. 1-6)
+* [Конспект по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf) (стр. 1-6)
 
 ### Материалы семинаров и задания в MYNES
 
