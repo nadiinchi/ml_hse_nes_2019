@@ -59,6 +59,10 @@ __6. Метрические методы. Введение в композици
 * [Конспект по метрическим методам](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem06-knn.pdf)
 * [Конспект по композициям](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (стр. 1-2)
 
+__7. Композиции алгоритмов__
+* [Конспект по бэггингу и случайному лесу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (стр. 6, 8-9)
+* [Конспект по градиентному бустингу](стр. 1-6)
+
 ### Материалы семинаров и задания в MYNES
 
 
