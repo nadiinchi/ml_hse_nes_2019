@@ -63,6 +63,18 @@ __7. Композиции алгоритмов__
 * [Конспект по бэггингу и случайному лесу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (стр. 6, 8-9)
 * [Конспект по градиентному бустингу](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf) (стр. 1-6)
 
+__8. Разложение ошибки на смещение и разброс__
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf)
+
+__9. Рекомендательные системы__
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture12-factorizations.pdf) (стр. 3-7)
+
+__10. Кластеризация. Метод главных компонент. Визуализация.__
+* [Конспект по кластеризации и визуализации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture11-unsupervised.pdf)
+* [Метод главных компонент](https://ru.coursera.org/lecture/vvedenie-mashinnoe-obuchenie/mietod-ghlavnykh-komponient-Ey95r)
+* [Вывод решения в методе главных компонент](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf)
+
+
 ### Материалы семинаров и задания в MYNES
 
 
