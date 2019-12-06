@@ -74,6 +74,9 @@ __10. Кластеризация. Метод главных компонент. 
 * [Метод главных компонент](https://ru.coursera.org/lecture/vvedenie-mashinnoe-obuchenie/mietod-ghlavnykh-komponient-Ey95r)
 * [Вывод решения в методе главных компонент](https://github.com/esokolov/ml-course-msu/blob/master/ML15-spring/lecture-notes/Sem06_pca.pdf)
 
+__11-13. Введение в глубинное обучение__
+* [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture11-dl.pdf)
+* [Презентация про сверточные слои](https://github.com/aosokin/dl_cshse_ami/blob/master/2019-spring/lectures/DL19_lecture3_models.pdf)
 
 ### Материалы семинаров и задания в MYNES
 
