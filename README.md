@@ -80,6 +80,7 @@ __10. Кластеризация. Метод главных компонент. 
 __11-13. Введение в глубинное обучение__
 * [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture11-dl.pdf)
 * [Презентация про сверточные слои](https://github.com/aosokin/dl_cshse_ami/blob/master/2019-spring/lectures/DL19_lecture3_models.pdf)
+* [Материалы лекций по глубинному обучению на ФКН](https://github.com/aosokin/dl_cshse_ami/tree/master/2019-spring/lectures) (материал лекций не вышел за границы первых четырех презентаций).
 
 ### Материалы семинаров и задания в MYNES
 
